@@ -9,6 +9,7 @@ const ChatsPage = (props) => {
     //                 props.user.username , 
     //                 props.user.secret);
 
+    
     return (
         /** use this chat logic when use this lib => react-chat-engine-advanced */
         // <div style={{ height: '100vh' }}>
